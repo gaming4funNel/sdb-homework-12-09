@@ -65,11 +65,11 @@ select * from test_table;
 
 *1) Созданной базы данных;*
 
-![clouddb](https://github.com/gaming4funNel/sdb-homework-11-04/blob/main/img/clouddb1.png)
+![clouddb](https://github.com/gaming4funNel/sdb-homework-12-09/blob/main/img/clouddb1.png)
 
 *2) Результата вывода команды на реплике ```select * from test_table;```.*
 
-![clouddb](https://github.com/gaming4funNel/sdb-homework-11-04/blob/main/img/clouddb2.png)
+![clouddb](https://github.com/gaming4funNel/sdb-homework-12-09/blob/main/img/clouddb2.png)
 
 ### Задание 2*
 
